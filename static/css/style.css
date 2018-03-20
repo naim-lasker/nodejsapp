@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    background: #a79c0f;
+    border-radius: 0 !important;
+}
+
+nav ul li a {
+    color: #ffffff;
+}
+
+.panel {
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+.panel-heading {
+    padding: 15px;
+    text-align: center;
+}
+
+.panel-footer {
+	padding: 15px;
+    color: #A0A0A0;
+    text-align: center;
+}
+
+.profile-img {
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 10px;
+	display: block;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
